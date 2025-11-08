@@ -1,51 +1,39 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎧 Influencer Testando o Fone Aura — #LabDIONattyOrNot
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este projeto faz parte do **Lab "Natty or Not" da DIO**, inspirado na cultura do fisiculturismo e no debate sobre o que é natural ou artificial — aplicado agora ao universo das **IAs Generativas** 💡.  
+Aqui, criei uma **influencer digital testando um novo fone de ouvido fictício**, o **"Aura"**, com a ajuda de ferramentas de IA para gerar imagens, roteiro e montagem do vídeo.
+
+O objetivo foi mostrar o potencial das IAs em criar um conteúdo visual e narrativo que pareça **natural e humano**, explorando expressões, emoções e cenas realistas.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- **ChatGPT (OpenAI)** → para criação de roteiro e prompts das cenas  
+- **Google Labs Flow** → para montagem do vídeo usando frames de imagem  
+- **Instagram Reels** → para publicação do vídeo final  
+- **GitHub** → versionamento do projeto  
+- *(opcional)* Ferramentas de edição leve para cortes e sincronização de áudio
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+1. **Ideia inicial:** criar uma “influencer digital” fazendo um review espontâneo e divertido de um produto fictício — o fone **Aura**.  
+2. **Criação dos prompts e roteiro:** utilizando o ChatGPT para gerar falas realistas, expressões e cenas curtas.
+3. **Geração das imagens:** cada prompt foi usado para criar uma sequência de frames representando o rosto da influencer, as reações e o produto.
+4. **Edição do vídeo:** as imagens foram importadas no [Google Labs Flow](https://labs.google/flow/about), onde foram sincronizadas com voz e trilha sonora.
+5. **Publicação:** o vídeo foi postado no Instagram como um pequeno review de 60 segundos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+---
 
-### Exemplos e Insigths
+## 💬 Prompts Usados
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+```text
+[Cena – rosto do influencer, com o fone “Aura” nas mãos]
+🎙️ “Galera… vocês não estão entendendo! Eu testei esse novo fone chamado Aura e… cara, eu tô simplesmente chocada.”
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Corta pra uma cena divertida – ele batendo palmas e não ouvindo nada]
+“Eu testei com trânsito, com aspirador de pó, até com minha mãe me chamando... nada! 😂”
