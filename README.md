@@ -37,3 +37,7 @@ O objetivo foi mostrar o potencial das IAs em criar um conteúdo visual e narrat
 
 [Corta pra uma cena divertida – ele batendo palmas e não ouvindo nada]
 “Eu testei com trânsito, com aspirador de pó, até com minha mãe me chamando... nada! 😂”
+
+Autor: Paulo Evaristo F. da Silva
+📧 Contato: pevaristo@msn.com
+#LabDIONattyOrNot #IAGenerativa #DIO
